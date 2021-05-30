@@ -27,7 +27,7 @@
 ### My Github Stats 
 # [![GBNREDDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBNREDDY&show_icons=true)](https://github.com/GBNREDDY)
 # [![GBNREDDY's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gbnreddy&hide=html&show_icons=true)](https://github.com/GBNREDDY)
-# ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gbnreddy)
+# ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=GBNREDDY)
 
 
 
